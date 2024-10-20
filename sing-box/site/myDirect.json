@@ -5,6 +5,9 @@
       "domain_suffix": [
         "u-tools.cn"
       ],
+      "ip_cidr": [
+        "35.212.137.102/32"
+      ],
       "process_name": [
         "OneDrive"
       ]
