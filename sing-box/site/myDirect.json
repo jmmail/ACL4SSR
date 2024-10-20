@@ -9,7 +9,9 @@
         "35.212.137.102/32"
       ],
       "process_name": [
-        "OneDrive"
+        "OneDrive",
+        "OneDrive.exe",
+        "FileCoAuth.exe"
       ]
     }
   ]
