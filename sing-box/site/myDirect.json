@@ -18,7 +18,9 @@
         {
           "process_name": [
             "cfnat-windows-amd64",
-            "cfnat-windows-amd64.exe"
+            "cfnat-windows-amd64.exe",
+            "NutstoreClient.exe",
+            "NutstoreClient"
           ]
         }
       ]
