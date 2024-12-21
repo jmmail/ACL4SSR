@@ -3,15 +3,14 @@
   "rules": [
     {
       "domain_suffix": [
-        "u-tools.cn"
+        ".u-tools.cn"
       ],
       "ip_cidr": [
         "35.212.137.102/32"
       ],
       "process_name": [
-        "OneDrive",
-        "OneDrive.exe",
-        "FileCoAuth.exe"
+        "cfnat-windows-amd64",
+        "cfnat-windows-amd64.exe"
       ]
     }
   ]
