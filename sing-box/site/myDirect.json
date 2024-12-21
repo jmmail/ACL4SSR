@@ -2,19 +2,25 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": [
-        ".u-tools.cn"
-      ]
-    },
-    {
-      "ip_cidr": [
-        "35.212.137.102/32"
-      ]
-    },
-    {
-      "process_name": [
-        "cfnat-windows-amd64",
-        "cfnat-windows-amd64.exe"
+      "type": "logical",
+      "mode": "or",
+      "rules": [
+        {
+          "domain_suffix": [
+            ".u-tools.cn"
+          ]
+        },
+        {
+          "ip_cidr": [
+            "35.212.137.102/32"
+          ]
+        },
+        {
+          "process_name": [
+            "cfnat-windows-amd64",
+            "cfnat-windows-amd64.exe"
+          ]
+        }
       ]
     }
   ]
