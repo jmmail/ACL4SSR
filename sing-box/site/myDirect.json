@@ -27,7 +27,9 @@
             "cfnat-windows-amd64",
             "cfnat-windows-amd64.exe",
             "NutstoreClient.exe",
-            "NutstoreClient"
+            "NutstoreClient",
+            "Microsoft.Notes.exe",
+            "便笺"
           ]
         }
       ]
