@@ -7,19 +7,14 @@
       "rules": [
         {
           "domain_suffix": [
-            ".u-tools.cn"
-          ]
-        },
-        {
-          "domain_regex": [
-            "^r+[0-9]+(---|\\.)sn-(2x3|ni5|j5o)\\w{5}\\.xn--ngstr-lra8j\\.com$"
+            ".u-tools.cn",
+            ".teracloud.jp"
           ]
         },
         {
           "ip_cidr": [
-            "35.212.137.102",
-            "45.62.125.228/32",
-            "47.111.128.182/32"
+            "35.212.137.102/32",
+            "112.124.109.198/32"
           ]
         },
         {
@@ -27,9 +22,7 @@
             "cfnat-windows-amd64",
             "cfnat-windows-amd64.exe",
             "NutstoreClient.exe",
-            "NutstoreClient",
-            "Microsoft.Notes.exe",
-            "便笺"
+            "NutstoreClient"
           ]
         }
       ]
