@@ -20,7 +20,7 @@
             ".reader.cx",
             ".gstatic.com",
             ".box.com",
-            "joplinapp.org"
+            ".joplinapp.org"
           ]
         },
         {
@@ -34,7 +34,7 @@
             "2604:4500:3:80::10",
             "2604:4500:8:24a::10"
           ]
-        },
+        }/*,
         {
           "process_name": [
             "ONENOTE",
@@ -42,7 +42,7 @@
             "ONENOTE.EXE",
             "ONENOTEM.EXE"
           ]
-        }
+        }*/
       ]
     }
   ]

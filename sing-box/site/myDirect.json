@@ -7,16 +7,7 @@
       "rules": [
         {
           "domain_suffix": [
-            ".u-tools.cn",
-            ".microsoft.com",
-            ".windows.com",
-            ".outlook.com",
-            ".office.com",
-            ".microsoftonline.com",
-            ".live.com",
-            ".passport.net",
-            ".windowsupdate.com",
-            ".msftncsi.com"
+            ".u-tools.cn"
           ]
         },
         {
@@ -30,9 +21,7 @@
             "cfnat-windows-amd64",
             "cfnat-windows-amd64.exe",
             "NutstoreClient.exe",
-            "NutstoreClient",
-            "Microsoft.Notes.exe",
-            "便笺"
+            "NutstoreClient"
           ]
         }
       ]
