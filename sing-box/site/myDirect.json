@@ -8,14 +8,15 @@
         {
           "domain_suffix": [
             ".u-tools.cn",
-            ".teracloud.jp",
             ".microsoft.com",
             ".windows.com",
             ".outlook.com",
             ".office.com",
             ".microsoftonline.com",
             ".live.com",
-            ".passport.net"
+            ".passport.net",
+            ".windowsupdate.com",
+            ".msftncsi.com"
           ]
         },
         {
