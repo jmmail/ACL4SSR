@@ -21,7 +21,11 @@
             "cfnat-windows-amd64",
             "cfnat-windows-amd64.exe",
             "NutstoreClient.exe",
-            "NutstoreClient"
+            "NutstoreClient",
+            "ONENOTE",
+            "ONENOTEM",
+            "ONENOTE.EXE",
+            "ONENOTEM.EXE"
           ]
         }
       ]
