@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,u-tools.cn
+  - IP-CIDR,35.212.137.102/32
+  - IP-CIDR,112.124.109.198/32
