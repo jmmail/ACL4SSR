@@ -1,4 +1,4 @@
-preload:
+payload:
   - DOMAIN,storage.kapsa.io
   - DOMAIN-SUFFIX,teracloud.jp
   - DOMAIN-SUFFIX,tana.inc
