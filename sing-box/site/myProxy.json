@@ -12,6 +12,7 @@
         },
         {
           "domain_suffix": [
+            ".teracloud.jp",
             ".tana.inc",
             ".firebasedatabase.app",
             ".resilio.com",
@@ -20,7 +21,8 @@
             ".reader.cx",
             ".gstatic.com",
             ".box.com",
-            ".joplinapp.org"
+            ".joplinapp.org",
+            ".anytype.io"
           ]
         },
         {
