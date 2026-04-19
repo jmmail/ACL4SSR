@@ -7,7 +7,7 @@ payload:
   - DOMAIN-SUFFIX,getsync.com
   - DOMAIN-SUFFIX,litera-reader.com
   - DOMAIN-SUFFIX,reader.cx
-  - DOMAIN-SUFFIX,gstatic.com
+  # - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,box.com
   - DOMAIN-SUFFIX,joplinapp.org
   - DOMAIN-SUFFIX,anytype.io
