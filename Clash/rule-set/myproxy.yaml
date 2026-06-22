@@ -2,6 +2,7 @@ payload:
   - DOMAIN,storage.kapsa.io
   - DOMAIN-SUFFIX,teracloud.jp
   - DOMAIN-SUFFIX,tana.inc
+  - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,firebasedatabase.app
   - DOMAIN-SUFFIX,resilio.com
   - DOMAIN-SUFFIX,getsync.com
